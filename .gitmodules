@@ -4,3 +4,6 @@
 [submodule "Testing-Repo2"]
 	path = Testing-Repo2
 	url = https://github.com/venkatAmigo/Testing-Repo2.git
+[submodule "Newtest"]
+	path = Newtest
+	url = https://github.com/venkatAmigo/Newtest.git
